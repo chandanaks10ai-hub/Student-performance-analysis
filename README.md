@@ -1,21 +1,4 @@
-# Student-performance-analysis
+Project: Student Performance Analysis
 
-Beginner Python project analyzing student performance data using Pandas and Matplotlib.
-
-## Dataset
-The dataset includes marks of 5 students in 5 subjects:
-- Math
-- Physics
-- Chemistry
-- English
-- Biology
-
-## Project Features
-- Calculates average marks per student
-- Finds highest and lowest marks in each subject
-- Visualizes average marks using a bar chart
-
-## Technologies Used
-- Python
-- Pandas
-- Matplotlib
+This project analyzes student marks using Python, Pandas, and Matplotlib.
+It calculates average marks, highest and lowest scores, and visualizes results with a bar chart.
